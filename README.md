@@ -1,2 +1,3 @@
 # AI-Adventure
-Powered by OpenAI. A simple story adventure generator game that generates scenarios.
+Powered by OpenAI. A simple story adventure generator game that generates scenarios about zombie apocalypse.
+The AI will ask questions and save the user's input for later purposes.
